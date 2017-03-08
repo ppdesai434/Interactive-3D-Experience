@@ -1,0 +1,203 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Brown_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.345098 0.211765
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_009
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Beige_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.615686 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Beige_1.jpg
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.768627 0.878431
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Wood_Cherry_Original.jpg
+
+newmtl Roofing_Shingles_Variable
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.290196 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Roofing_Shingles_Variable.jpg
+
+newmtl _Black_
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.768627 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Black_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Blinds_Cloth_Horizontal_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 0.713725 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Blinds_Cloth_Horizontal_2.jpg
+
+newmtl Wood_Bamboo_Medium
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.768627 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Wood_Bamboo_Medium.jpg
+
+newmtl Translucent_Glass_Sky_Reflection
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.541176 0.709804
+Ks 0.330000 0.330000 0.330000
+d 0.380000
+map_Kd carl house/Translucent_Glass_Sky_Reflection.jpg
+
+newmtl _Wood_Cherry_Original_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.454902 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Wood_Cherry_Original_1.jpg
+
+newmtl Blinds_Cloth_Horizontal
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.752941 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Blinds_Cloth_Horizontal.jpg
+
+newmtl _Redwood_
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.768627 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Floor_Parquet
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.317647 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Wood_Floor_Parquet.jpg
+
+newmtl _Blinds_Cloth_Horizontal_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.400000 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Blinds_Cloth_Horizontal_1.jpg
+
+newmtl Wood_Floor_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.690196 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Wood_Floor_Light.jpg
+
+newmtl _Blinds_Cloth_Horizontal_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.705882 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Blinds_Cloth_Horizontal_4.jpg
+
+newmtl _Wood_Cherry_Original_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.121569 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Wood_Cherry_Original_2.jpg
+
+newmtl _Wood_Cherry_Original_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.129412 0.050980
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Wood_Cherry_Original_3.jpg
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _DarkGoldenrod_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.713725 0.678431
+Ks 0.330000 0.330000 0.330000
+
+newmtl Brick_Antique
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.215686 0.176471
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Brick_Antique.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.529412 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Metal_Corrogated_Shiny.jpg
+
+newmtl _Blinds_Cloth_Horizontal_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.780392 0.874510
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Blinds_Cloth_Horizontal_3.jpg
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.741176 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Color_006.jpg
+
+newmtl Blinds_Wood_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.537255 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Blinds_Wood_White.jpg
+
+newmtl _Color_A01_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.752941 0.831373
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_A01_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.427451 0.356863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.447059 0.203922
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_002
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Wood_Cherry_Original_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Wood_Cherry_Original_4.jpg
+
+newmtl _Vegetation_Grass_Artificial_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.447059 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/_Vegetation_Grass_Artificial_1.jpg
+
+newmtl Blinds_Roman_Hobbled_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.341176 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd carl house/Blinds_Roman_Hobbled_Blue.jpg
+
+newmtl _Color_006_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.482353 0.141176
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Color_006_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+

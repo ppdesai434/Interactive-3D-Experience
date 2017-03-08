@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/lib/ext/j3dcore.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-api-docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/bin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/lib/ext/j3dutils.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-api-docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/bin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/lib/ext/vecmath.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-api-docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/PD/Desktop/Java3D_Material/j3d-1_5_2-windows-i586/bin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Z:/wiiusej 0.12b/wiiusej.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/PD/Desktop/WiiuseJ 0.12a Javadoc/doc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Z:/wiiusej 0.12b"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="S:/app2/vrml97.jar"/>
+	<classpathentry kind="lib" path="S:/app2/j3dtree.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
